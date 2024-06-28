@@ -1,0 +1,13 @@
+IBOT Session 6
+Computer Vision Basics and Real Time Object Tracking in Robotics 
+
+PreReq:
+Install Jupyter Notebook
+Install ROS 2 Humble
+For Custom Training do training and generate model before the session in YOLO v8 or Use Model Provided in the Repo  
+
+PPT:
+https://www.canva.com/design/DAGJHp6olsc/3Hbgs2yKVz4MeeWmrbFCeQ/edit?utm_content=DAGJHp6olsc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Repo Link:
+https://github.com/sanjaithg/IBOT-SS-6-CV-.git
