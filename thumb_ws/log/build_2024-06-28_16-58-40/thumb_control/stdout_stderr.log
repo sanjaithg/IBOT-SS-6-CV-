@@ -1,0 +1,41 @@
+running egg_info
+creating ../../build/thumb_control/thumb_control.egg-info
+writing ../../build/thumb_control/thumb_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/thumb_control/thumb_control.egg-info/dependency_links.txt
+writing entry points to ../../build/thumb_control/thumb_control.egg-info/entry_points.txt
+writing requirements to ../../build/thumb_control/thumb_control.egg-info/requires.txt
+writing top-level names to ../../build/thumb_control/thumb_control.egg-info/top_level.txt
+writing manifest file '../../build/thumb_control/thumb_control.egg-info/SOURCES.txt'
+reading manifest file '../../build/thumb_control/thumb_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/thumb_control/thumb_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/saber-ubuntu/thumb_ws/build/thumb_control/build
+creating /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib
+creating /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control
+copying thumb_control/__init__.py -> /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control
+copying thumb_control/thumb_direction_detector.py -> /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control
+copying thumb_control/turtle_control.py -> /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control
+running install
+running install_lib
+creating /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control
+copying /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control/__init__.py -> /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control
+copying /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control/thumb_direction_detector.py -> /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control
+copying /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control/turtle_control.py -> /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control
+byte-compiling /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control/thumb_direction_detector.py to thumb_direction_detector.cpython-310.pyc
+byte-compiling /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control/turtle_control.py to turtle_control.cpython-310.pyc
+running install_data
+creating /home/saber-ubuntu/thumb_ws/install/thumb_control/share
+creating /home/saber-ubuntu/thumb_ws/install/thumb_control/share/ament_index
+creating /home/saber-ubuntu/thumb_ws/install/thumb_control/share/ament_index/resource_index
+creating /home/saber-ubuntu/thumb_ws/install/thumb_control/share/ament_index/resource_index/packages
+copying resource/thumb_control -> /home/saber-ubuntu/thumb_ws/install/thumb_control/share/ament_index/resource_index/packages
+creating /home/saber-ubuntu/thumb_ws/install/thumb_control/share/thumb_control
+copying package.xml -> /home/saber-ubuntu/thumb_ws/install/thumb_control/share/thumb_control
+running install_egg_info
+Copying ../../build/thumb_control/thumb_control.egg-info to /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control-0.0.0-py3.10.egg-info
+running install_scripts
+Installing thumb_direction_detector script to /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/thumb_control
+Installing turtle_control script to /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/thumb_control
+writing list of installed files to '/home/saber-ubuntu/thumb_ws/build/thumb_control/install.log'

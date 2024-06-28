@@ -1,0 +1,22 @@
+[0.555s] Invoking command in '/home/saber-ubuntu/thumb_ws/src/thumb_control': PYTHONPATH=/home/saber-ubuntu/thumb_ws/build/thumb_control/prefix_override:/home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/thumb_control build --build-base /home/saber-ubuntu/thumb_ws/build/thumb_control/build install --record /home/saber-ubuntu/thumb_ws/build/thumb_control/install.log --single-version-externally-managed install_data
+[0.772s] running egg_info
+[0.773s] writing ../../build/thumb_control/thumb_control.egg-info/PKG-INFO
+[0.773s] writing dependency_links to ../../build/thumb_control/thumb_control.egg-info/dependency_links.txt
+[0.773s] writing entry points to ../../build/thumb_control/thumb_control.egg-info/entry_points.txt
+[0.774s] writing requirements to ../../build/thumb_control/thumb_control.egg-info/requires.txt
+[0.774s] writing top-level names to ../../build/thumb_control/thumb_control.egg-info/top_level.txt
+[0.775s] reading manifest file '../../build/thumb_control/thumb_control.egg-info/SOURCES.txt'
+[0.776s] writing manifest file '../../build/thumb_control/thumb_control.egg-info/SOURCES.txt'
+[0.776s] running build
+[0.776s] running build_py
+[0.777s] running install
+[0.777s] running install_lib
+[0.778s] running install_data
+[0.778s] running install_egg_info
+[0.780s] removing '/home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control-0.0.0-py3.10.egg-info' (and everything under it)
+[0.780s] Copying ../../build/thumb_control/thumb_control.egg-info to /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control-0.0.0-py3.10.egg-info
+[0.781s] running install_scripts
+[0.798s] Installing thumb_direction_detector script to /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/thumb_control
+[0.798s] Installing turtle_control script to /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/thumb_control
+[0.798s] writing list of installed files to '/home/saber-ubuntu/thumb_ws/build/thumb_control/install.log'
+[0.816s] Invoked command in '/home/saber-ubuntu/thumb_ws/src/thumb_control' returned '0': PYTHONPATH=/home/saber-ubuntu/thumb_ws/build/thumb_control/prefix_override:/home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/thumb_control build --build-base /home/saber-ubuntu/thumb_ws/build/thumb_control/build install --record /home/saber-ubuntu/thumb_ws/build/thumb_control/install.log --single-version-externally-managed install_data

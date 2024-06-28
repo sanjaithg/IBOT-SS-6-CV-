@@ -1,0 +1,43 @@
+[0.551s] Invoking command in '/home/saber-ubuntu/thumb_ws/src/thumb_control': PYTHONPATH=/home/saber-ubuntu/thumb_ws/build/thumb_control/prefix_override:/home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/thumb_control build --build-base /home/saber-ubuntu/thumb_ws/build/thumb_control/build install --record /home/saber-ubuntu/thumb_ws/build/thumb_control/install.log --single-version-externally-managed install_data
+[0.748s] running egg_info
+[0.749s] creating ../../build/thumb_control/thumb_control.egg-info
+[0.749s] writing ../../build/thumb_control/thumb_control.egg-info/PKG-INFO
+[0.749s] writing dependency_links to ../../build/thumb_control/thumb_control.egg-info/dependency_links.txt
+[0.749s] writing entry points to ../../build/thumb_control/thumb_control.egg-info/entry_points.txt
+[0.749s] writing requirements to ../../build/thumb_control/thumb_control.egg-info/requires.txt
+[0.749s] writing top-level names to ../../build/thumb_control/thumb_control.egg-info/top_level.txt
+[0.749s] writing manifest file '../../build/thumb_control/thumb_control.egg-info/SOURCES.txt'
+[0.751s] reading manifest file '../../build/thumb_control/thumb_control.egg-info/SOURCES.txt'
+[0.751s] writing manifest file '../../build/thumb_control/thumb_control.egg-info/SOURCES.txt'
+[0.751s] running build
+[0.751s] running build_py
+[0.751s] creating /home/saber-ubuntu/thumb_ws/build/thumb_control/build
+[0.751s] creating /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib
+[0.751s] creating /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control
+[0.752s] copying thumb_control/__init__.py -> /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control
+[0.752s] copying thumb_control/thumb_direction_detector.py -> /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control
+[0.752s] copying thumb_control/turtle_control.py -> /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control
+[0.752s] running install
+[0.752s] running install_lib
+[0.752s] creating /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control
+[0.753s] copying /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control/__init__.py -> /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control
+[0.753s] copying /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control/thumb_direction_detector.py -> /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control
+[0.753s] copying /home/saber-ubuntu/thumb_ws/build/thumb_control/build/lib/thumb_control/turtle_control.py -> /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control
+[0.754s] byte-compiling /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control/__init__.py to __init__.cpython-310.pyc
+[0.754s] byte-compiling /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control/thumb_direction_detector.py to thumb_direction_detector.cpython-310.pyc
+[0.755s] byte-compiling /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control/turtle_control.py to turtle_control.cpython-310.pyc
+[0.755s] running install_data
+[0.755s] creating /home/saber-ubuntu/thumb_ws/install/thumb_control/share
+[0.755s] creating /home/saber-ubuntu/thumb_ws/install/thumb_control/share/ament_index
+[0.755s] creating /home/saber-ubuntu/thumb_ws/install/thumb_control/share/ament_index/resource_index
+[0.755s] creating /home/saber-ubuntu/thumb_ws/install/thumb_control/share/ament_index/resource_index/packages
+[0.755s] copying resource/thumb_control -> /home/saber-ubuntu/thumb_ws/install/thumb_control/share/ament_index/resource_index/packages
+[0.755s] creating /home/saber-ubuntu/thumb_ws/install/thumb_control/share/thumb_control
+[0.755s] copying package.xml -> /home/saber-ubuntu/thumb_ws/install/thumb_control/share/thumb_control
+[0.756s] running install_egg_info
+[0.757s] Copying ../../build/thumb_control/thumb_control.egg-info to /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages/thumb_control-0.0.0-py3.10.egg-info
+[0.757s] running install_scripts
+[0.772s] Installing thumb_direction_detector script to /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/thumb_control
+[0.772s] Installing turtle_control script to /home/saber-ubuntu/thumb_ws/install/thumb_control/lib/thumb_control
+[0.773s] writing list of installed files to '/home/saber-ubuntu/thumb_ws/build/thumb_control/install.log'
+[0.799s] Invoked command in '/home/saber-ubuntu/thumb_ws/src/thumb_control' returned '0': PYTHONPATH=/home/saber-ubuntu/thumb_ws/build/thumb_control/prefix_override:/home/saber-ubuntu/thumb_ws/install/thumb_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/thumb_control build --build-base /home/saber-ubuntu/thumb_ws/build/thumb_control/build install --record /home/saber-ubuntu/thumb_ws/build/thumb_control/install.log --single-version-externally-managed install_data

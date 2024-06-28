@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/thumb_control/thumb_control.egg-info/PKG-INFO
+../../build/thumb_control/thumb_control.egg-info/SOURCES.txt
+../../build/thumb_control/thumb_control.egg-info/dependency_links.txt
+../../build/thumb_control/thumb_control.egg-info/entry_points.txt
+../../build/thumb_control/thumb_control.egg-info/requires.txt
+../../build/thumb_control/thumb_control.egg-info/top_level.txt
+../../build/thumb_control/thumb_control.egg-info/zip-safe
+resource/thumb_control
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+thumb_control/__init__.py
+thumb_control/thumb_direction_detector.py
+thumb_control/turtle_control.py

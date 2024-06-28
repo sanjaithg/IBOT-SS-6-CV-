@@ -1,0 +1,4 @@
+[console_scripts]
+thumb_direction_detector = thumb_control.thumb_direction_detector:main
+turtle_control = thumb_control.turtle_control:main
+
